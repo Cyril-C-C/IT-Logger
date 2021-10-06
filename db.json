@@ -20,13 +20,6 @@
       "tech": "Sara Wilson",
       "date": "2021-10-06T11:18:19.100Z",
       "id": 3
-    },
-    {
-      "message": "Missed",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2021-10-06T11:20:45.714Z",
-      "id": 4
     }
   ],
   "techs": [
